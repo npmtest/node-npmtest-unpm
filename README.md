@@ -1,6 +1,6 @@
 # npmtest-unpm
 
-#### test coverage for  [unpm (v1.5.0)](https://github.com/hayes/unpm)  [![npm package](https://img.shields.io/npm/v/npmtest-unpm.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-unpm) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-unpm.svg)](https://travis-ci.org/npmtest/node-npmtest-unpm)
+#### basic test coverage for  [unpm (v1.5.0)](https://github.com/hayes/unpm)  [![npm package](https://img.shields.io/npm/v/npmtest-unpm.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-unpm) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-unpm.svg)](https://travis-ci.org/npmtest/node-npmtest-unpm)
 
 #### private npm registry in node
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-unpm/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-unpm/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-unpm/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-unpm/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-unpm/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-unpm/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-unpm/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-unpm/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-unpm/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-unpm/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-unpm/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-unpm/build/coverage.html/index.html)
 
